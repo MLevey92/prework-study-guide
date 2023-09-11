@@ -2,12 +2,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+- This prework study guide lists the topics to study in our bootcamp. Each topic has a section to add notes.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- I built this project as a way to organize notes through bootcamp
+- I brushed up on my HTML, CSS, and JavaScript skills
 
 ## Installation
 
@@ -15,7 +13,7 @@ N/A
 
 ## Usage
 
-This prework study guide lists the topics to study in our bootcamp. Each topic has a section to add notes. The study guide will inform the user to open chrome dev tools in order to view the javascript running.
+ The study guide will inform the user to open chrome dev tools in order to view the javascript running.
 
 ## Credits
 
